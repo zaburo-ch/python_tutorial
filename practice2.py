@@ -1,0 +1,2 @@
+a = "stringA"
+b = "stringB"
